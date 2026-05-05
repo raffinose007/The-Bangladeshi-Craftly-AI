@@ -1,0 +1,24 @@
+# robots.txt — raffinose007.github.io/The-Bangladeshi-Craftly-AI
+# Allow all search engine crawlers full access
+
+User-agent: *
+Allow: /
+
+# Point all crawlers to the sitemap
+Sitemap: https://raffinose007.github.io/The-Bangladeshi-Craftly-AI/sitemap.xml
+
+# Explicitly welcome major crawlers
+User-agent: Googlebot
+Allow: /
+
+User-agent: Bingbot
+Allow: /
+
+User-agent: facebookexternalhit
+Allow: /
+
+User-agent: Twitterbot
+Allow: /
+
+User-agent: LinkedInBot
+Allow: /
